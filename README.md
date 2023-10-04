@@ -1,4 +1,5 @@
-![obraz](https://github.com/CScripts-Network/cs_liquor/assets/55330408/cf850584-bf70-445b-8981-d1b372a1481f)
+![JZkZOIZ](https://github.com/CScripts-Network/cs_liquor/assets/55330408/550d54f8-7a74-4e6e-9217-e9ad0a4649da)
+
 # Moved Liquor Store
 
 ## ShowCase
